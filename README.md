@@ -2,7 +2,7 @@
 <img src="img/fan-1.gif" alt="Fan" align="center">
 </div>
 
-<div align="center">
+<!--<div align="center">
 <img src="img/welcome-fire.gif" alt="Welcome" align="center">
 </div>
 
@@ -12,7 +12,7 @@ To My Github Profile
 
 <h3 align="center">
 <!-- <a href="#">Visit my personal homepage -->
-<a href="https://saweria.co/nurkholisalek">Visit to support and donaition
+<!--<a href="https://saweria.co/nurkholisalek">Visit to support and donaition
 <img src="img/website.gif" alt="website" align="center">
 </a>
 </h3>
@@ -21,7 +21,7 @@ To My Github Profile
 
 <div align="center">
 <!-- <p>Write something nice in my guest book:</p> -->
-<a href="#"><img src="img/guestbook.gif" alt="Guest book" align="center"></a>
+<!--<a href="#"><img src="img/guestbook.gif" alt="Guest book" align="center"></a>
 </div>
 
 <hr>
@@ -36,7 +36,7 @@ To My Github Profile
 <div align="center">
 <p></p>
 <!-- <img src="count.svg" alt="hit counter" align="center"> -->
-</div>
+<!--</div>
 
 <div align="center">
 <img src="img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
